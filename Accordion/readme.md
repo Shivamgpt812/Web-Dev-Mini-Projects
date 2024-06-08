@@ -52,8 +52,8 @@ Get a sneak peek at the Stunning Accordion included in this project:
 - **Modern Design**: Sleek and stylish, perfect for organizing and presenting content.
 - **Responsive**: Adapts seamlessly to different screen sizes and devices.
 
-![image.jpg]
-![image2.jpg]
+![image](image.jpg)
+![image](image2.jpg)
 
 ## Get in Touch
 
