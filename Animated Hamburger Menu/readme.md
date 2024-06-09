@@ -25,7 +25,7 @@ To integrate the Animated Hamburger Menu into your project, follow these steps:
 2. **Include the Necessary Files**:
     Add the HTML, CSS, and JavaScript files from the repository to your project directory.
 
-3. **Link the CSS and JavaScript**:
+3. **Link the CSS and JavaScript**:s
     In your HTML file, include the CSS stylesheet and the JavaScript file:
     ```html
     <link rel="stylesheet" href="style.css">
