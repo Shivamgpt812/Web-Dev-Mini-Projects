@@ -24,7 +24,7 @@ To run any of these projects locally, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/web-dev-mini-projects.git
+    git clone https://github.com/shivamgpt812/web-dev-mini-projects.git
     ```
 
 2. **Navigate to the Project Directory**:
