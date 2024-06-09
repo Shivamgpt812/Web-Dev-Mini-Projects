@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Animated Hamburger Menu by Shivam</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  </style>
+  <body>
+    <div>
+    <button class="hamburger hamburger--emphatic" type="button">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+  </div>
+    <script>
+      // Look for .hamburger
+      var hamburger = document.querySelector(".hamburger");
+      // On click
+      hamburger.addEventListener("click", function() {
+        // Toggle class "is-active"
+        hamburger.classList.toggle("is-active");
+        // Do something else, like open/close menu
+      });
+    </script>
+  </body>
+</html>
