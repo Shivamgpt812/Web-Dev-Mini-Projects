@@ -4,7 +4,7 @@ Animated Search Box is a stylish and interactive search input field with animati
 
 ## Preview 🖼️
 
-![image](image.jpg)
+![image](image1.jpg)
 ![image](image2.jpg)
 
 ## Technologies Used 🛠️
