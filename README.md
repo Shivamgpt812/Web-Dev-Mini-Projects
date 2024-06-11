@@ -16,7 +16,12 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 ### 2. Animated Hamburger Menu 
 
 - **Description**: Add a touch of interactivity to your website with our stylish and animated hamburger menu component
-- **Technologies Used**: HTML, CSS, JavaScript
+- **Technologies Used**: HTML & CSS
+
+### 3. Animated Search Bar
+
+- **Description**: Animated Search Box is a stylish and interactive search input field with animation effects.
+- **Technologies Used**: HTML & CSS
 
 ## Installation
 
