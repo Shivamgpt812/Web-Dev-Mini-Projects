@@ -23,6 +23,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Animated Search Box is a stylish and interactive search input field with animation effects.
 - **Technologies Used**: HTML & CSS
 
+### 4. Blog Card Grid
+
+- **Description**: A variety of elegantly designed blog cards that are fully responsive and customizable.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
