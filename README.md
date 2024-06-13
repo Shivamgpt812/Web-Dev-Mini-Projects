@@ -28,7 +28,7 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: A variety of elegantly designed blog cards that are fully responsive and customizable.
 - **Technologies Used**: HTML & CSS
 
-### 4. Bottom Tab Bar Navigation
+### 5. Bottom Tab Bar Navigation
 
 - **Description**: A customised Bottom Tab Bar Navigation to match your app's style
 - **Technologies Used**: HTML & CSS
