@@ -11,7 +11,7 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 ### 1. Accordion
 
 - **Description**: Enhance your website with our elegant and feature-rich accordion component
-- **Technologies Used**: HTML & CSS
+- **Technologies Used**: HTML, CSS & JavaScript
 
 ### 2. Animated Hamburger Menu 
 
@@ -26,6 +26,16 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 ### 4. Blog Card Grid
 
 - **Description**: A variety of elegantly designed blog cards that are fully responsive and customizable.
+- **Technologies Used**: HTML & CSS
+
+### 5. Bottom Tab Bar Navigation
+
+- **Description**: A customised Bottom Tab Bar Navigation to match your app's style
+- **Technologies Used**: HTML & CSS
+
+### 6. Breadcrumb Navigation
+
+- **Description**: Breadcrumb Navigation is a user interface element that provides users with a trail of links to navigate hierarchical website structures.
 - **Technologies Used**: HTML & CSS
 
 ## Installation
