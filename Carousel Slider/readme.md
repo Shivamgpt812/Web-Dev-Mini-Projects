@@ -12,7 +12,6 @@ Carousel Slider is a user interface component that displays a series of images o
 
 - HTML
 - CSS
-- JavaScript
 
 ## Features ✨
 
