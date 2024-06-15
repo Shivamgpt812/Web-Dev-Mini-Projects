@@ -38,6 +38,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Breadcrumb Navigation is a user interface element that provides users with a trail of links to navigate hierarchical website structures.
 - **Technologies Used**: HTML & CSS
 
+### 7. Carousel Slider
+
+- **Description**: Carousel Slider is a user interface component that displays a series of images or content in a rotating carousel format.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
