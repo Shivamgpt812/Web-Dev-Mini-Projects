@@ -43,6 +43,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Carousel Slider is a user interface component that displays a series of images or content in a rotating carousel format.
 - **Technologies Used**: HTML & CSS
 
+### 8. Light Mode and Dark Mode Toggle
+
+- **Description**: Light Mode and Dark Mode Toggle is a web application that allows users to switch between light and dark themes.
+- **Technologies Used**: HTML, CSS & JavaScript
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
