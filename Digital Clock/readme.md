@@ -4,7 +4,7 @@ This is a simple web-based circular clock that displays the current time with ci
 
 ## Preview
 
-![image](image.jpg)
+![image](image.png)
 
 ## Technologies Used
 
