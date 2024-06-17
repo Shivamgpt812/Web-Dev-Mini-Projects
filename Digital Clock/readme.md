@@ -1,4 +1,4 @@
-# Circular Clock
+# Digital Clock
 
 This is a simple web-based circular clock that displays the current time with circular indicators for hours, minutes, and seconds.
 
