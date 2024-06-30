@@ -53,6 +53,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: This is a simple web-based circular clock that displays the current time with circular indicators for hours, minutes, and seconds.
 - **Technologies Used**: HTML, CSS & JavaScript
 
+### 9. Drop Down Menu
+
+- **Description**: Dropdown Menu is a customizable and user-friendly menu component for web applications.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
