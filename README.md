@@ -48,10 +48,15 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Light Mode and Dark Mode Toggle is a web application that allows users to switch between light and dark themes.
 - **Technologies Used**: HTML, CSS & JavaScript
 
-### 8. Digital Clock
+### 9. Digital Clock
 
 - **Description**: This is a simple web-based circular clock that displays the current time with circular indicators for hours, minutes, and seconds.
 - **Technologies Used**: HTML, CSS & JavaScript
+
+### 10. Drop Down Menu
+
+- **Description**: Dropdown Menu is a customizable and user-friendly menu component for web applications.
+- **Technologies Used**: HTML & CSS
 
 ## Installation
 
