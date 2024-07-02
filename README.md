@@ -58,6 +58,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Dropdown Menu is a customizable and user-friendly menu component for web applications.
 - **Technologies Used**: HTML & CSS
 
+### 11. Glitch Effect
+
+- **Description**: An awesome glitch effect using HTML, CSS, and JavaScript
+- **Technologies Used**: HTML, CSS & JavaScript
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
