@@ -68,6 +68,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Create a stunning first impression with our sleek and captivating landing page template.
 - **Technologies Used**: HTML & CSS
 
+### 13. Loaders
+
+- **Description**: A dazzling assortment of loaders that will bring your web pages to life!
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
