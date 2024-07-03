@@ -63,6 +63,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: An awesome glitch effect using HTML, CSS, and JavaScript
 - **Technologies Used**: HTML, CSS & JavaScript
 
+### 12. Landing Page
+
+- **Description**: Create a stunning first impression with our sleek and captivating landing page template.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
