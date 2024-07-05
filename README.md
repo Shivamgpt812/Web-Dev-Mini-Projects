@@ -73,6 +73,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: A dazzling assortment of loaders that will bring your web pages to life!
 - **Technologies Used**: HTML & CSS
 
+### 14. Login Page
+
+- **Description**: Login Page is a simple web page designed for user authentication.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
