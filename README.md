@@ -78,6 +78,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Login Page is a simple web page designed for user authentication.
 - **Technologies Used**: HTML & CSS
 
+### 14. Pulse Search Bar
+
+- **Description**: Pulse Search Bar is a modern and stylish search bar with a pulsating animation effect.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
