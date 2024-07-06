@@ -83,6 +83,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Pulse Search Bar is a modern and stylish search bar with a pulsating animation effect.
 - **Technologies Used**: HTML & CSS
 
+### 16. Radio Button
+
+- **Description**: A variety of custom-designed radio buttons to suit any design aesthetic.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
