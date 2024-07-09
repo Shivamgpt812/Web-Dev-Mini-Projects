@@ -88,6 +88,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: A variety of custom-designed radio buttons to suit any design aesthetic.
 - **Technologies Used**: HTML & CSS
 
+### 17. Responsive Footer
+
+- **Description**: Enhance your website's footer with our beautifully designed, fully responsive footer template.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
