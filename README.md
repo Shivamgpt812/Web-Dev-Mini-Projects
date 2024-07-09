@@ -95,7 +95,7 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 
 ### 18. Responsive Navbar
 
-- **Description**: Enhance your website's footer with our beautifully designed, fully responsive footer template.
+- **Description**: A variety of responsive navbar designs that can be seamlessly integrated into any web project.
 - **Technologies Used**: HTML & CSS
 
 ## Installation
