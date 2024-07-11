@@ -103,6 +103,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Sign-Up Page is a simple web page designed for user registration.
 - **Technologies Used**: HTML & CSS
 
+### 20. Simple Calculator
+
+- **Description**: Simple Calculator is a basic calculator application built for performing arithmetic calculations.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
