@@ -98,6 +98,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: A variety of responsive navbar designs that can be seamlessly integrated into any web project.
 - **Technologies Used**: HTML & CSS
 
+### 19. Sign Up Page
+
+- **Description**: Sign-Up Page is a simple web page designed for user registration.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
