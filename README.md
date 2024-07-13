@@ -108,6 +108,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Simple Calculator is a basic calculator application built for performing arithmetic calculations.
 - **Technologies Used**: HTML & CSS
 
+### 21. Social Media Icons
+
+- **Description**: Social Media Icons is a collection of stylish and customizable icons for popular social media platforms.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
