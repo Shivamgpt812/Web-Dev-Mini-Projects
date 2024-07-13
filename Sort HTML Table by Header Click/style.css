@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(205, 221, 210);
+  }
+  
+  table {
+    border-spacing: 0;
+    width: 80%;
+    border: 1px solid #dddd;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 15px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(153, 153, 197);
+  }
