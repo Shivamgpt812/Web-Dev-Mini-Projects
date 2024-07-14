@@ -113,6 +113,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Social Media Icons is a collection of stylish and customizable icons for popular social media platforms.
 - **Technologies Used**: HTML & CSS
 
+### 22. Sortable HTML Table by Header Click
+
+- **Description**: An HTML table with a sorting feature that can be seamlessly integrated into any web project. Users can click on the table headers to sort the data in ascending or descending order.
+- **Technologies Used**: HTML, CSS & JavaScript
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
