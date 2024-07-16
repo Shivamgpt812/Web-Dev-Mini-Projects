@@ -123,6 +123,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Enhance your website's navigation with our beautifully designed, fully responsive sidebar menu.
 - **Technologies Used**: HTML, CSS & JavaScript
 
+### 24. Submit Button
+
+- **Description**: Elevate your forms with our sleek and eye-catching submit button component.
+- **Technologies Used**: HTML, CSS & JavaScript
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
