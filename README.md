@@ -128,6 +128,11 @@ In this repository, I'll be adding a series of mini projects developed using HTM
 - **Description**: Elevate your forms with our sleek and eye-catching submit button component.
 - **Technologies Used**: HTML, CSS & JavaScript
 
+### 25. Todo List
+
+- **Description**: A customizable and user-friendly to-do list solution for keeping track of tasks and staying productive.
+- **Technologies Used**: HTML & CSS
+
 ## Installation
 
 To run any of these projects locally, follow these steps:
